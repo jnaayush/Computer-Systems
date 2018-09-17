@@ -1,0 +1,19 @@
+total 288
+-rw-r--r--@ 1 aayushjain  staff  10221 Jun 12 16:52 README.md
+drwxr-xr-x  5 aayushjain  staff    160 Jun 18 15:56 ass4
+-rw-r--r--@ 1 aayushjain  staff  10263 Jun 19 00:16 main.c
+-rwxr-xr-x  1 aayushjain  staff   8720 Jun 15 20:40 parse
+-rw-r--r--@ 1 aayushjain  staff    378 Jun 15 20:40 parse.c
+-rw-r--r--@ 1 aayushjain  staff   1487 Jun 19 00:15 redict_pipe.c
+-rwxr-xr-x  1 aayushjain  staff  16904 Jun 19 00:16 shell
+-rw-r--r--@ 1 aayushjain  staff   7707 Jun 17 17:42 shell.c
+drwxr-xr-x  3 aayushjain  staff     96 Jun 15 20:28 shell.dSYM
+-rw-r--r--  1 aayushjain  staff  16340 Jun 12 16:52 shell.png
+-rwxr-xr-x  1 aayushjain  staff   8648 Jun 17 15:35 test
+-rw-r--r--@ 1 aayushjain  staff      0 Jun 19 00:17 test.c
+-rwxr-xr-x  1 aayushjain  staff   8432 Jun 17 12:21 testPrint
+-rw-r--r--@ 1 aayushjain  staff     83 Jun 17 12:21 testPrint.c
+-rwxr-xr-x  1 aayushjain  staff   8648 Jun 17 15:14 testRead
+-rw-r--r--@ 1 aayushjain  staff    133 Jun 17 14:28 testRead.c
+-rwxr-xr-x  1 aayushjain  staff   4248 Jun 18 15:51 while
+-rw-r--r--  1 aayushjain  staff     60 Jun 18 15:43 while.c

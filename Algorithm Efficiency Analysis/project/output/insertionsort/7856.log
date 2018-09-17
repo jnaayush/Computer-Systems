@@ -1,0 +1,34 @@
+Numbers: 25000, pid: 7856 Space Used : 0 Time Stamp : 1533539920264
+Time(microseconds): 764023.000000
+Stats[(nil), 0]:      764008800
+Stats[(nil), 1]:      764004301
+Stats[(nil), 2]:             64
+Stats[(nil), 3]:              0
+Stats[(nil), 4]:              0
+Stats[(nil), 5]:              0
+Stats[(nil), 6]:           -nan
+Stats[(nil), 7]:      968394784
+Stats[(nil), 8]:     1886812967
+Stats[(nil), 9]:           -nan
+Stats[(nil), 10]:           1635
+Stats[(nil), 11]:      170392490
+Stats[(nil), 12]:          22535
+Stats[(nil), 13]:           -nan
+Stats[(nil), 14]:        1275482
+Stats[(nil), 15]:       66745303
+Stats[(nil), 16]:            864
+Stats[(nil), 17]:        1616290
+Stats[(nil), 18]:        4843298
+Stats[(nil), 19]:          26490
+Stats[(nil), 20]:           7681
+Stats[(nil), 21]:           1264
+Stats[(nil), 22]:           5997
+Stats[(nil), 23]:              0
+Stats[(nil), 24]:              0
+Stats[(nil), 25]:              0
+Stats[(nil), 26]:              0
+Stats[(nil), 27]:              0
+Stats[(nil), 28]:              0
+Stats[(nil), 29]:              0
+Stats[(nil), 30]:              0
+Stats[(nil), 31]:    0.770685341

@@ -1,0 +1,45 @@
+
+>>>>> Spawn the shell <<<<<
+spawn the shell - success
+
+>>>>> Testing the help command <<<<<
+'help' - success
+
+>>>>> Testing the cd to the upper folder command <<<<<
+'cd ..' - success
+
+>>>>> Testing the pwd command <<<<<
+'pwd' - failed 
+
+mini-shell>Command not found--Did you mean something else?
+ 
+/mnt/z/MS_NEU/Courses/CS/TA/Assignment-monorepos/monorepo-jnaayush
+
+>>>>> Testing the pipe <<<<<
+pipe command - success
+
+>>>>> Testing the input redirection <<<<<
+input redirection - failed
+
+>>>>> Testing the output redirection <<<<<
+output redirection - success
+
+>>>>> Testing the pipe with redirection <<<<<
+pipe with redirection - success
+
+>>>>> Testing the background <<<<<
+process sent to bg - success
+bg process completed and cleaned - failed
+
+>>>>> Testing the exit with signal handler <<<<<
+shell alive before SIGINT - success
+interrupt signal SIGINT handled - failed <bound method Process.status of psutil.Process(pid=10952, name='shell', started='19:21:08')> 10952 10952
+
+>>>>> Testing the exit command <<<<<
+shell alive before exit - success
+shell dead after exit - success
+
+==================================================
+Test done - Passed: 10, Failed: 4
+shell exit status: 0
+==================================================
